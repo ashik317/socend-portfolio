@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.Orence-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.flaxible-container {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.Half-width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+.Half-width img {
+    width: 80%;
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.Dream_Big {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.Experiences-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.Experiences-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px seagreen;
+}
+
+#full-stoke {
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c);
+    border-image-slice: 1;
+}
+
+#web {
+    border-left: 7px solid;
+    margin-left: 15px;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.footer {
+    text-align: center;
+}
